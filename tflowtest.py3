@@ -1,4 +1,4 @@
-# tflowtest.py3
+# tflowtest.py3 - slightly modified version for runing with python3
 # This is actually an example given by tensoflow.org
 #  at the following url - https://www.tensorflow.org/versions/r0.7/get_started/index.html
 #  NOTE that this code needs minor modification to run python3
